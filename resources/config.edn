@@ -1,0 +1,13 @@
+{:domain "magnum.auth0.com"
+ :issuer "https://magnum.auth0.com/"
+ :client-id ""
+ :signing-algorithm :hs256
+ :client-secret ""
+ :scope "openid groups permissions roles user_id name nickname email picture"
+ :callback-path "/auth/callback"
+ :error-redirect "/login"
+ :success-redirect "/"
+ :logout-handler "/auth/logout"
+ :logout-redirect "/"
+ :title "CS 4278/5278"
+ :logo "http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/238.png&w=128&h=128&transparent=true"}
